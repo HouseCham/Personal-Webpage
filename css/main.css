@@ -574,6 +574,9 @@ outline: none;
 .skills__sql{
     width: 50%;
 }
+.skills__php{
+    width: 50%;
+}
 
 .skills__close .skills__list{
     height: 0;
